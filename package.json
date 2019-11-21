@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "\"Laravel mix extension to build html pages from pug files and partials\"",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/FNGR2911/laravel-mix-pug-to-html.git"
