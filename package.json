@@ -1,0 +1,28 @@
+{
+  "name": "laravel-mix-pug-to-html",
+  "version": "1.0.0",
+  "description": "\"Laravel mix extension to build html pages from pug files and partials\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "following"
+  },
+  "keywords": [
+    "pug",
+    "laravel",
+    "mix",
+    "webpack"
+  ],
+  "peerDependencies": {
+    "laravel-mix": "^4.0.0"
+  },
+  "author": "Matthias Fänger",
+  "license": "MIT",
+  "dependencies": {
+    "html-webpack-harddisk-plugin": "^1.0.1",
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
