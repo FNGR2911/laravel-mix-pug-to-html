@@ -1,5 +1,5 @@
 {
-  "name": "laravel-mix-pug-to-html",
+  "name": "@fngr/mix-pug-to-html",
   "version": "1.0.0",
   "description": "\"Laravel mix extension to build html pages from pug files and partials\"",
   "main": "index.js",
