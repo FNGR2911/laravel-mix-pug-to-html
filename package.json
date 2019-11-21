@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "following"
+    "url": "https://github.com/FNGR2911/laravel-mix-pug-to-html.git"
   },
   "keywords": [
     "pug",
